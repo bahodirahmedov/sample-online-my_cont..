@@ -1,0 +1,327 @@
+@media(max-width:792px){
+    .container{
+        width: 100%;
+        height: 100%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .top-header-elements{
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        flex-direction: column;
+    }
+    .left-header-elements{
+        width: 70%;
+    }
+    .main_elements{
+        width: 100%;
+        height: 100%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .search-box{
+        width: 100%;
+    }
+    .input-border{
+        width: 70%;
+        height: 80%
+    }
+    .search-batn{
+        width: 25%;
+    }
+    .phone_list{
+        width: 100%;
+    }
+
+}
+
+@media(max-width:576px){
+    .container{
+        width: 100%;
+        height: 100%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .top-header-elements{
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        flex-direction: column;
+    }
+    .left-header-elements{
+        width: 85%;
+    }
+    .search-box{
+        width: 100%;
+    }
+    .input-border{
+        width: 70%;
+        height: 80%
+    }
+    .search-batn{
+        width: 30%;
+    }
+}
+@media(max-width:456px){
+    .container{
+        width: 100%;
+        height: 100%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .top-header-elements{
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        flex-direction: column;
+    }
+    .left-header-elements{
+        width: 100%;
+    }
+    .logo-name{
+        font-size: 24px;
+    }
+    .main_elements{
+        width: 100%;
+        height: 100%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .search-box{
+        width: 100%;
+    }
+    .input-border{
+        width: 70%;
+        height: 80%
+    }
+    .search-batn{
+        width: 30%;
+    }
+    .search-button_text{
+        font-size: 16px;
+    }
+    .search-batn i{
+        font-size: 16px;
+    }
+    .phone_list{
+        width: 100%;
+    }
+    .total-contacts-box{
+        width: 100%;
+    }
+    .phone_number_box{
+        width: 100%;
+    }
+    .phone_number_link{
+        width: 100%;
+    }
+    .phone_number_link span{
+        font-size: 26px;
+    }
+    .phone_number_link i{
+        font-size: 26px;
+    }
+    .contact_person_name{
+        font-size: 30px;
+        padding-left: 5px;
+    }
+}
+@media(max-width:396px){
+    .logo-name{
+        font-size: 24px;
+    }
+    .left-header-elements img{
+        width: 20%;
+    }
+    .search-box{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .input-border{
+        width: 80%;
+        font-size: 18px;
+        padding-left: 0;
+        padding-left: 10px;
+    }
+    ::placeholder{
+        font-size: 18px;
+    }
+    .search-batn{
+        width: 25%;
+        padding: 0;
+        padding: 5px;
+    }
+    .search-button_text{
+        font-size: 14px;
+    }
+    .search-batn i{
+        font-size: 14px;
+    }
+
+    .phone_list{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .total-contacts-box{
+        padding-left: 0;
+        padding-right: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_box{
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_link{
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_link span{
+        font-size: 28px;
+    }
+    .phone_number_link i{
+        font-size: 28px;
+    }
+    .contact_person_name{
+        font-size: 28px;
+        padding-left: 5px;
+    }
+}
+@media(max-width:358px){
+    .logo-name{
+        font-size: 22px;
+    }
+    .left-header-elements img{
+        width: 15%;
+        height: 40px;
+    }
+    .input-border{
+        width: 80%;
+        font-size: 18px;
+        padding-left: 0;
+        padding-left: 8px;
+        margin-right: 7px;
+    }
+    ::placeholder{
+        font-size: 18px;
+    }
+    .search-batn{
+        flex-direction: column;
+        width: 18%;
+        padding: 0;
+        padding: 5px;
+    }
+    .search-button_text{
+        font-size: 12px;
+        margin: 0px;
+        margin-top: 3px;
+        margin-left: 3px;
+    }
+    .search-batn i{
+        font-size: 12px;
+        padding: 0;
+        padding: 3px;
+    }
+
+    .phone_number_box{
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_link{
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_link span{
+        font-size: 26px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_link i{
+        font-size: 24px;
+    }
+    .contact_person_name{
+        font-size: 26px;
+        padding-left: 5px;
+    }
+}
+@media(max-width:338px){
+    .logo-name{
+        font-size: 21px;
+    }
+    .left-header-elements img{
+        width: 13%;
+        height: 30px;
+    }
+    .input-border{
+        width: 80%;
+        font-size: 18px;
+        padding-left: 0;
+        padding-left: 4px;
+        margin-right: 7px;
+    }
+    ::placeholder{
+        font-size: 16px;
+    }
+    .search-batn{
+        flex-direction: column;
+        width: 18%;
+        padding: 0;
+        padding: 5px;
+    }
+    .search-button_text{
+        font-size: 12px;
+        margin: 0px;
+        margin-top: 3px;
+        margin-left: 3px;
+    }
+    .search-batn i{
+        font-size: 12px;
+        padding: 0;
+        padding: 3px;
+    }
+
+    .phone_number_box{
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_link{
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_link span{
+        font-size: 26px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .phone_number_link i{
+        font-size: 24px;
+    }
+    .contact_person_name{
+        font-size: 26px;
+        padding-left: 5px;
+    }
+}
